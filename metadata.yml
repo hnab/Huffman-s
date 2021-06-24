@@ -1,0 +1,14 @@
+---
+:id: 14429127
+:submitters:
+- :name: Hatef Nabili
+  :email: hnabili@ucsd.edu
+- :name: Arman Shahriari Dastjerdi
+  :email: ashahria@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-02-21 18:56:35.541481000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-02-21 10:56:35.541481000 Z
+:status: processed
+:score: 45.0
